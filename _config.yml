@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "AMTS Software Engineer @ Salesforce (2022-present)"
   location         : "San Francisco, California"
-  employer         : "Salesforce"
+  employer         : #
   pubmed           : # 
   googlescholar    : # 
   email            : "hanelliotn@gmail.com"
