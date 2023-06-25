@@ -3,7 +3,7 @@ title: "Baymax"
 collection: projects
 type: "AI/ML"
 permalink: /projects/baymax
-date: 2018-12-20
+start_date: 2018-12-20
 ---
 
 Short Description: TBA

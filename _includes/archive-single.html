@@ -39,7 +39,7 @@
     {% endif %}
 
         {% if post.collection == 'projects' %}
-          <p> {{ post.type }}, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+          <p> Category: {{ post.type }}, Start year: {{ post.start_date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' %}
           <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.date %}
